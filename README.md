@@ -6,7 +6,7 @@
 
 Chrome Extension available [here](https://chrome.google.com/webstore/detail/apple-search-ads-keywords/lmnofaonlcdoajbionddgiicggbhlgdj)
 
-Get all keywords popularity for AppStore
+Get all [keywords popularity for AppStore](https://medium.com/@searchads/popularity-vs-priority-52eafe1000cf)
 
 Check the popularity of App Store keywords without logging to the Search Ads Dashboard saving time and empowering ASO strategy.
 
@@ -19,6 +19,8 @@ For convenience and clarity, all popularity scores are represented in the form o
 * Green : popularity >= 50
 * Orange : popularity < 50
 * Red : popularity < 10
+
+Selected by ASO Stack community in the  [ASO Monthly #37 May 2019](https://asostack.com/aso-monthly-37-june-2019-insights-from-google-i-o-2019-trump-blacklist-effects-getting-ready-81a70704121e)
 
 # Screenshot
 
