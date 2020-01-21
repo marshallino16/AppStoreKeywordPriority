@@ -7,9 +7,11 @@
 Chrome Extension available [here](https://chrome.google.com/webstore/detail/apple-search-ads-keywords/lmnofaonlcdoajbionddgiicggbhlgdj)
 
 Get all keywords popularity for AppStore
+
 Check the popularity of App Store keywords without logging to the Search Ads Dashboard saving time and empowering ASO strategy.
 
 ASA Keywords Popularity is the fastest way to review App Store keyword popularity and export result to csv file.
+
 Click any keyword to copy it directly in your clipboard in exact match.
 
 For convenience and clarity, all popularity scores are represented in the form of real numbers along with colored indicators.
