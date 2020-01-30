@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Apple Search Ads Keywords Popularity AppStore",
-  "version": "1.0.6",
-  "description": "Get all keywords popularity for AppStore",
+  "name": "Search Ads Keywords Popularity Score Checker",
+  "version": "1.0.7",
+  "description": "Get all Apple Search Ads keywords popularity score for AppStore. Estimate a keyword volume based on the priority score.",
   "browser_action": {
       "default_icon": "images/icon.png",
       "default_title": "Apple Search Ads Keywords Popularity AppStore",
