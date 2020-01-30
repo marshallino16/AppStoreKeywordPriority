@@ -1,6 +1,8 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/marshallino16/AppStoreKeywordPriority/graphs/commit-activity)
 [![Chrome Ext users](https://img.shields.io/chrome-web-store/users/lmnofaonlcdoajbionddgiicggbhlgdj.svg?label=users)](https://chrome.google.com/webstore/detail/apple-search-ads-keywords/lmnofaonlcdoajbionddgiicggbhlgdj)
 
+![Illustration_ChromExt](https://user-images.githubusercontent.com/1506323/73466362-10823680-4382-11ea-9269-1723f0af3246.png)
+
 
 # AppStoreKeywordPriority
 
@@ -21,7 +23,3 @@ For convenience and clarity, all popularity scores are represented in the form o
 * Red : popularity < 10
 
 Selected by ASO Stack community in the  [ASO Monthly #37 May 2019](https://asostack.com/aso-monthly-37-june-2019-insights-from-google-i-o-2019-trump-blacklist-effects-getting-ready-81a70704121e)
-
-# Screenshot
-
-![unnamed](https://user-images.githubusercontent.com/1506323/72821747-43854580-3c71-11ea-88ad-dfba44713750.png)
