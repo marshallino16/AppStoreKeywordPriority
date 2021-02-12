@@ -1,4 +1,4 @@
-## DEPRECATED: Apple has since removed the URL I use in this project.
+## DEPRECATED: Apple has since removed the priority score from the returned xml.
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/marshallino16/AppStoreKeywordPriority/graphs/commit-activity)
 [![Chrome Ext users](https://img.shields.io/chrome-web-store/users/lmnofaonlcdoajbionddgiicggbhlgdj.svg?label=users)](https://chrome.google.com/webstore/detail/apple-search-ads-keywords/lmnofaonlcdoajbionddgiicggbhlgdj)
